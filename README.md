@@ -17,5 +17,5 @@
     This URL always provide latest data.
     
 ## Result:-
-    ![Capture](https://user-images.githubusercontent.com/17768683/119830194-a5b32200-bf19-11eb-9be9-5bced62df7a1.JPG)
+    ![Result](Result.JPG)
 
