@@ -13,5 +13,9 @@
 6. math
 7. datetime
 
-## Data source - https://api.covid19india.org/csv/latest/state_wise_daily.csv
-This URL always provide latest data.
+## Data source - https://api.covid19india.org/csv/latest/state_wise_daily.csv 
+    This URL always provide latest data.
+    
+## Result:-
+    ![Capture](https://user-images.githubusercontent.com/17768683/119830194-a5b32200-bf19-11eb-9be9-5bced62df7a1.JPG)
+
