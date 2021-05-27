@@ -1,4 +1,4 @@
-# Covid-19India State-Wise Daily Cases Visualization
+# Covid-19 India State-Wise Daily Cases Visualization
 
 ## Language - Python3
 
