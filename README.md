@@ -22,5 +22,6 @@
     https://api.covid19india.org/csv/latest/state_wise_daily.csv
 
 ## Result:-
+Over the past 30 days as on 25-07-2021
 ![Result](Result.JPG)
 
