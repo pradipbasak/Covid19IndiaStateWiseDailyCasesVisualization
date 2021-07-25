@@ -22,5 +22,5 @@
     https://api.covid19india.org/csv/latest/state_wise_daily.csv
 
 ## Result:-
-![Result](Result.PNG)
+![Result](Result.JPG)
 
